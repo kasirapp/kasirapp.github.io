@@ -20,14 +20,14 @@ title                    : "KasirApp"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "KasirApp"
-description              : "https://kasirapp.github.io/"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "KasirApp adalah solusi terbaik yang bisa Anda andalkan! Dengan fitur-fitur lengkap seperti manajemen stok, pelanggan, dan staff, KasirApp membantu Anda mengoptimalkan keuntungan bisnis dengan mudah dan cepat. Aplikasi ini mendukung pembayaran dengan berbagai metode dan bahkan dapat menghitung pajak otomatis serta memberikan diskon setiap transaksi. Dengan antarmuka yang mudah digunakan dan desain yang menarik, KasirApp memungkinkan Anda mengelola bisnis Anda dengan lebih cerdas dan efisien. Jangan sia-siakan waktu Anda, download aplikasi KasirApp sekarang dan tingkatkan produktivitas bisnis Anda!"
+url                      : "https://kasirapp.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+logo                     : "/assets/logo/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "Optimalkan Keuntungan Bisnis Anda dengan KasirApp - Solusi Manajemen Penjualan Terbaik" # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : true # false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
