@@ -15,13 +15,13 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "id-ID"
 title                    : "KasirApp"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "KasirApp"
 description              : "KasirApp adalah solusi terbaik yang bisa Anda andalkan! Dengan fitur-fitur lengkap seperti manajemen stok, pelanggan, dan staff, KasirApp membantu Anda mengoptimalkan keuntungan bisnis dengan mudah dan cepat. Aplikasi ini mendukung pembayaran dengan berbagai metode dan bahkan dapat menghitung pajak otomatis serta memberikan diskon setiap transaksi. Dengan antarmuka yang mudah digunakan dan desain yang menarik, KasirApp memungkinkan Anda mengelola bisnis Anda dengan lebih cerdas dan efisien. Jangan sia-siakan waktu Anda, download aplikasi KasirApp sekarang dan tingkatkan produktivitas bisnis Anda!"
-url                      : "https://kasirapp.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://kasirapp.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -108,11 +108,11 @@ author:
   avatar           : "assets/logo/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "We are **amazing** tim."
   location         : "Indonesia"
-  email            : "kancio.indonesia@gmail.com"
+  email            : "kasirapp.indonesia@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kancio.indonesia@gmail.com"
+      url: "mailto:kasirapp.indonesia@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "kasirapp.github.io"
@@ -121,13 +121,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/profile.php?id=100090338893788"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kasirapp"
+      url: "https://github.com/kasirapp/kasirapp.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/kasirapp.indonesia/?hl=id"
 
 # Site Footer
 footer:
@@ -137,10 +137,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/profile.php?id=100090338893788"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/kasirapp/kasirapp.github.io"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/kasirapp.indonesia/?hl=id
 
 
 # Reading Files
@@ -218,9 +218,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
