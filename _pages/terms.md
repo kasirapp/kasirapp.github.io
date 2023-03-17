@@ -5,7 +5,6 @@ last_modified_at: 2023-03-17T12:42:38-04:00
 toc: true
 ---
 
-# Syarat dan Ketentuan KasirApp
 
 Selamat datang di KasirApp! Aplikasi KasirApp adalah aplikasi manajemen penjualan yang dirancang untuk membantu penjual dalam mengelola bisnis mereka. Dengan mengakses atau menggunakan aplikasi KasirApp, Anda setuju untuk terikat oleh syarat dan ketentuan berikut:
 
