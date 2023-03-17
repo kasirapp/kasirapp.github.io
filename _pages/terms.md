@@ -65,4 +65,4 @@ Selamat datang di KasirApp! Aplikasi KasirApp adalah aplikasi manajemen penjuala
 
     Syarat dan Ketentuan Penggunaan ini mencakup keseluruhan kesepakatan antara KasirApp dan pengguna terkait penggunaan aplikasi KasirApp. Syarat dan Ketentuan Penggunaan ini menggantikan segala perjanjian atau pernyataan sebelumnya antara KasirApp dan pengguna terkait aplikasi ini.
 
-Jika Anda memiliki pertanyaan tentang Syarat dan Ketentuan Penggunaan ini atau penggunaan aplikasi KasirApp, silakan hubungi kami melalui email di [kancio.indonesia@gmail.com].
+Jika Anda memiliki pertanyaan tentang Syarat dan Ketentuan Penggunaan ini atau penggunaan aplikasi KasirApp, silakan hubungi kami melalui email di [kasirapp.indonesia@gmail.com].
