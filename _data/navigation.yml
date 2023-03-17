@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Download KasirApp"
+    url: https://play.google.com/store/apps/details?id=com.kancio.caffee.caffee_pos&hl=in&gl=US
+  - title: "Tentang"
+    url: https://kasirapp.github.io/about
+  - title: "Kebijakan Privasi"
+    url: https://kasirapp.github.io/privacy-policy/
+  - title: "Syarat dan Ketentuan"
+    url: https://kasirapp.github.io/terms/
   # - title: "Sitemap"
   #   url: /sitemap/
