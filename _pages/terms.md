@@ -1,6 +1,6 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
+title: "Syarat dan Ketentuan"
 last_modified_at: 2023-03-17T12:42:38-04:00
 toc: true
 ---
